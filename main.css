@@ -1,4 +1,15 @@
 body {
-    background-color: black;
+    background-color: #051923;
     color: white;
+    font-family: "Montserrat";
+}
+
+.name {
+    margin-top: -15px;
+    margin-bottom: -15px;
+    color: #00A6FB;
+}
+
+.intro {
+    font-weight: lighter;
 }
