@@ -4,6 +4,17 @@ body {
     font-family: "Montserrat";
 }
 
+p {
+    color: #d9d9d9;
+    font-family: "Consolas";
+    margin-left: 30px;
+    text-shadow: 1px 1px 2px #006494;
+    text-justify: auto;
+    display: inline-block;
+    margin-top: 5px;
+    margin-bottom: 5px;
+
+}
 .name {
     margin-top: -15px;
     margin-bottom: -15px;
@@ -12,4 +23,17 @@ body {
 
 .intro {
     font-weight: lighter;
+}
+
+.gray {
+    color: #d9d9d9;
+}
+
+.questions {
+    margin-top: 40px;
+}
+
+.qsmark {
+    color: #00A6FB;
+    font-size:xx-large;
 }
